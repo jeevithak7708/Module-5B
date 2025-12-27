@@ -23,7 +23,8 @@ print(np.where(l1>l2))
 print(np.where(l1==l2))
 ```
 ## Output
-![Uploading image.png…]()
+<img width="1207" height="347" alt="image" src="https://github.com/user-attachments/assets/da9650f0-5375-4468-90dd-ca57475d65a2" />
+
 
 
 ## Result
